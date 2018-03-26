@@ -7,4 +7,7 @@ Beginn der Entwicklung von Android Apps mit Java.
 
   -> First App = ("Hello World") 
   -> Strukutur von Android Anwendungen kennelernen
+   <br/>
+### Start Udacity online course
+https://de.udacity.com/course/developing-android-apps--ud853
   
